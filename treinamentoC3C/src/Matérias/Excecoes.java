@@ -95,7 +95,7 @@ Exemplos de situações onde é necessário o tratamento de exceções:
         }
         catch(NullPointerException e)
         {
-            System.out.println("Ocorreu um NullPointerException ao executar o método aumentarLetras() "+e);
+            System.out.println("Ocorreu um NullPointerException ao executar o método exemploThrows() "+e);
         }
     }
 }
