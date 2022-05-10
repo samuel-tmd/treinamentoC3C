@@ -1,6 +1,5 @@
 package Matérias;
 
-
 // O tratamento de exceções serve para prever erros esperados no código, sabendo assim a melhor alternativa para seguir.
 // Para tratar exeções utiliza-se o bloco try/catch que tentará realizar determinada ações e se algo der errado o bloco catch é ativado dependendo da exceção que é inserida entre os parenteses.
 // É possível ter vários catch em um bloco.

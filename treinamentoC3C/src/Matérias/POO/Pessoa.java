@@ -1,6 +1,8 @@
 package Matérias.POO;
 
-public class Pessoa {
+import Matérias.Interfaces.IPessoa;
+
+public class Pessoa implements IPessoa{
 
     // A classe chamada pessoa é definida por 3 atributos que formarão o nome.
     public String primeiroNome;
